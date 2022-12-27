@@ -14,9 +14,6 @@ VSCode:
   Prettier - Code formatter
   Russian Language Pack for Visual Studio
   vscode-icons
-Установить git
-
-Создать проект , загрузить его на github
  
 1.Больше смысловые чем стилистические 
 <h1></h1>
@@ -165,7 +162,9 @@ https://githowto.com/ru - гайд по git (не путать с github)
 https://githowto.com/ru/setup - инструкция по установке и настройке git
 https://training.github.com/downloads/ru/github-git-cheat-sheet/ - шпаргалка по git 
 
+https://github.com/fullstackkk/Food_Delivery - проект 
 
+https://www.figma.com/file/jQrccYe9jcBq4BqP2SZX7u/Food-Delivery-Landing-Page-%F0%9F%8D%95-(Community)-(Community)-(Copy)?node-id=0%3A1&t=nqOnuz1luZLiw4HO-0 - макет
 
 
 
